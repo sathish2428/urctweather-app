@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/urctweather-app/precache-manifest.57cc3b9da7628dda65ecfd887233db8f.js"
+  "/urctweather-app/precache-manifest.ad62c4f9316da7ddab3a128fc79bd922.js"
 );
 
 self.addEventListener('message', (event) => {
