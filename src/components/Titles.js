@@ -1,9 +1,10 @@
-import React, { Fragment } from "react";
+import React from "react";
 
 export const Titles = (props) => {
         return(
-           <Fragment>
-               <h1>Titles Component</h1>
-           </Fragment>
+               <div>
+               <h1 className="title-container__title text-center">Weather Application</h1>
+               <h3 className="title-container__subtitle text-center">Check Weather in your city</h3>
+               </div>
         );
 }
