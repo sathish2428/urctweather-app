@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a9ae058acf3b4c84a17e11beaa3ead0",
+    "revision": "89b2192df1b4ce9a3da78a843a292a28",
     "url": "/urctweather-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/urctweather-app/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "2b0653d0438e00f6139e",
-    "url": "/urctweather-app/static/css/main.1a977568.chunk.css"
+    "revision": "5d09e48838659b0d58cd",
+    "url": "/urctweather-app/static/css/main.c84d61b8.chunk.css"
   },
   {
     "revision": "1d0a6a065ef0e7f51138",
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/urctweather-app/static/js/2.22baa9c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b0653d0438e00f6139e",
-    "url": "/urctweather-app/static/js/main.8d759406.chunk.js"
+    "revision": "5d09e48838659b0d58cd",
+    "url": "/urctweather-app/static/js/main.32f90f7b.chunk.js"
   },
   {
     "revision": "181351702e2f2a4001bd",
     "url": "/urctweather-app/static/js/runtime-main.d73d0e90.js"
-  },
-  {
-    "revision": "b6796c732547b6b7e19cdc8e4ad58356",
-    "url": "/urctweather-app/static/media/bg.b6796c73.jpg"
   },
   {
     "revision": "c891ccc5cce1a8c4a2dc0c54333925dd",
