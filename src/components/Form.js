@@ -3,19 +3,19 @@ import React from "react";
 export const Form = (props) => {
         return(
                 <form onSubmit={props.getWeather}>
-                    <div class="form__group field">
-                    <input type="input" class="form__field" placeholder="City" name="city" id='city' required autocomplete="off"/>
-                    <label for="city" class="form__label">City</label>
+                    <div className="form__group field">
+                    <input type="input" className="form__field" placeholder="City" name="city" id='city' required autoComplete="off"/>
+                    <label htmlFor="city" className="form__label">City</label>
                     </div>
 
-                    <div class="form__group field">
-                    <input type="input" class="form__field" placeholder="Country" name="country" id='country' required autocomplete="off"/>
-                    <label for="country" class="form__label">Country</label>
+                    <div className="form__group field">
+                    <input type="input" className="form__field" placeholder="Country" name="country" id='country' required autoComplete="off"/>
+                    <label htmlFor="country" className="form__label">Country</label>
                     </div>
                    <button id="btn-hide">
-                    <div type="submit" class="hexagon-wrapper">
-                        <div class="hexagon">
-                            <i class="fa fa-sun-o"></i>
+                    <div type="submit" className="hexagon-wrapper">
+                        <div className="hexagon">
+                            <i className="fa fa-sun-o"></i>
                         </div>
                     </div> 
                    </button>
