@@ -4,12 +4,12 @@ export const Form = (props) => {
         return(
                 <form onSubmit={props.getWeather}>
                     <div className="form__group field">
-                    <input type="input" className="form__field" placeholder="City" name="city" id='city' required autoComplete="off"/>
+                    <input type="input" className="form__field" placeholder="City" name="city" id='city' autoComplete="off"/>
                     <label htmlFor="city" className="form__label">City</label>
                     </div>
 
                     <div className="form__group field">
-                    <input type="input" className="form__field" placeholder="Country" name="country" id='country' required autoComplete="off"/>
+                    <input type="input" className="form__field" placeholder="Country" name="country" id='country' autoComplete="off"/>
                     <label htmlFor="country" className="form__label">Country</label>
                     </div>
                    <button id="btn-hide">
